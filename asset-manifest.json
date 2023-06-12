@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xedter20/my-portfolio/static/css/main.8a1c7aa4.css",
+    "main.js": "/xedter20/my-portfolio/static/js/main.484eb961.js",
+    "index.html": "/xedter20/my-portfolio/index.html",
+    "main.8a1c7aa4.css.map": "/xedter20/my-portfolio/static/css/main.8a1c7aa4.css.map",
+    "main.484eb961.js.map": "/xedter20/my-portfolio/static/js/main.484eb961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1c7aa4.css",
+    "static/js/main.484eb961.js"
+  ]
+}
