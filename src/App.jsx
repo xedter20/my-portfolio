@@ -1,7 +1,14 @@
 import React, { Component } from 'react';
 
 import Navbar from './components/Navbar/Navbar';
-import { About, Footer, Header } from './container/index';
+import {
+  About,
+  Footer,
+  Header,
+  Work,
+  Skills,
+  Testimonials
+} from './container/index';
 
 export class App extends Component {
   render() {
@@ -10,6 +17,9 @@ export class App extends Component {
         <Navbar />
         <Header />
         <About />
+        <Work />
+        <Skills />
+        <Testimonials />
         <Footer />
       </div>
     );
