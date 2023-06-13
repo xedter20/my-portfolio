@@ -10,17 +10,19 @@ import {
   Testimonials
 } from './container/index';
 
+import './App.scss';
+
 export class App extends Component {
   render() {
     return (
       <div className="app">
         <Navbar />
-        <Header />
+        {/* <Header />
         <About />
         <Work />
         <Skills />
         <Testimonials />
-        <Footer />
+        <Footer /> */}
       </div>
     );
   }
